@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(214, 239, 249);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.btn {
+  background-color: rgb(16, 144, 235);
+  color: white;
+  width: 70px;
+  font-size: 18px;
+}
+
+.container {
+  text-align: center;
+  align-items: center;
+}
+
+.reset-btn, .clear-btn {
+  margin-top: 2rem;
+}
+
+h2 {
+  margin-top: 4rem;
+}
